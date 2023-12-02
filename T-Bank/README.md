@@ -1,4 +1,4 @@
-Welcome to the Mobile Banking App, a secure and convenient way to manage your finances on the go. This readme provides an overview of the app's features, installation instructions, and usage guidelines.
+Welcome to the T-Bank Mobile Banking App, a secure and convenient way to manage your finances on the go. This readme provides an overview of the app's features, installation instructions, and usage guidelines.
 
 Features
 
